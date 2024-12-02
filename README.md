@@ -16,7 +16,7 @@ This script automates network or node operations for Nodepay Network.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Rambeboy/nodepay-airdrop-bot.git
+   git clone https://github.com/mrsaepudin40/ramboy-nodepay.git
    ```
 2. Navigate to the project directory:
    ```bash
